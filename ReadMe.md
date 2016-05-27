@@ -1,9 +1,10 @@
 <p align="center">
 <img src="http://xirux.com/dmx/logoGitHub.png" width="80%">
+</p> 
 
 <br>
 TeraDMX
--------------------
+===========================
 TeraDMX is fully isolated DMX LED DIMMER Shield for Arduino is designed to connect your project to professional large size DMX networks.
 It can control high-current (9-24V lamps, relays, solenoids, motors, etc.) or low-current TTL (for servos and small LEDs) output.
 This shield has been designed to restrain EMI and to eliminate ground loops specifically. Ideal for DMX projects without risking processor damages from high voltage peaks.
@@ -168,10 +169,8 @@ You can buy PCB as well (50 PLN)
 -------------------
 <p align="center">
 <img src="http://xirux.com/dmx/InfoGFX.jpg" width="100%">
+</p> 
 <br>
 <p align="center">
-<img src="http://xirux.com/dmx/FOTO2.jpg" width="80%">
-
-
-
-
+<img src="http://xirux.com/dmx/FOTO2.jpg" width="100%">
+</p> 
