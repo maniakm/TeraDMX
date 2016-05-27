@@ -1,6 +1,8 @@
 <p align="center">
 <img src="http://xirux.com/dmx/logoGitHub.png" width="80%">
 
+<br>
+
 TeraDMX
 ===========================
 TeraDMX is fully isolated DMX LED DIMMER Shield for Arduino is designed to connect your project to professional large size DMX networks.
