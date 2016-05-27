@@ -173,6 +173,9 @@ You can buy PCB as well (50 PLN)
 <p align="center">
 <img src="http://xirux.com/dmx/FOTO2.jpg" width="80%">
 </p> 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> origin/master
