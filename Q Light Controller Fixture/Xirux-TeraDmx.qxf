@@ -1,0 +1,43 @@
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition>
+ <Creator>
+  <Name>Q Light Controller</Name>
+  <Version>3.2.2w</Version>
+  <Author>Robert</Author>
+ </Creator>
+ <Manufacturer>Xirux</Manufacturer>
+ <Model>TeraDmx</Model>
+ <Type>Dimmer</Type>
+ <Channel Name="MasterIntensity">
+  <Group Byte="0">Intensity</Group>
+  <Capability Min="0" Max="255">Master Intensity</Capability>
+ </Channel>
+ <Channel Name="RED Intensity">
+  <Group Byte="0">Intensity</Group>
+  <Colour>Red</Colour>
+  <Capability Min="0" Max="255">RED Intensity</Capability>
+ </Channel>
+ <Channel Name="GREEN Intensity">
+  <Group Byte="0">Intensity</Group>
+  <Colour>Green</Colour>
+  <Capability Min="0" Max="255">GREEN Intensity</Capability>
+ </Channel>
+ <Channel Name="BLUE Intensity">
+  <Group Byte="0">Intensity</Group>
+  <Colour>Blue</Colour>
+  <Capability Min="0" Max="255">BLUE Intensity</Capability>
+ </Channel>
+ <Mode Name="Normal">
+  <Physical>
+   <Bulb Lumens="0" Type="" ColourTemperature="0"/>
+   <Dimensions Width="0" Height="0" Weight="0" Depth="0"/>
+   <Lens DegreesMax="0" Name="Other" DegreesMin="0"/>
+   <Focus PanMax="0" Type="Fixed" TiltMax="0"/>
+   <Technical PowerConsumption="0" DmxConnector="5-pin"/>
+  </Physical>
+  <Channel Number="0">MasterIntensity</Channel>
+  <Channel Number="1">RED Intensity</Channel>
+  <Channel Number="2">GREEN Intensity</Channel>
+  <Channel Number="3">BLUE Intensity</Channel>
+ </Mode>
+</FixtureDefinition>
