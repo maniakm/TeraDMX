@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://xirux.com/dmx/logoGitHub.png" width="80%">
+<img src="http://mordzon.net/xirux/dmx/logoGitHub.png" width="80%">
 </p> 
 
 TeraDMX
@@ -27,7 +27,7 @@ This DMX Shield is a high quality solution for reasonable costs that allows you 
 
 
 <p align="center">
-<img src="http://xirux.com/dmx/FOTO01.jpg" width="40%">
+<img src="http://mordzon.net/xirux/dmx/FOTO01.jpg" width="40%">
 <div align="center"><i>Foto: TeraDMX v.1.2</i></div>
 </p>  
 
@@ -167,10 +167,10 @@ You can buy PCB as well (50 PLN)
 
 -------------------
 <p align="center">
-<img src="http://xirux.com/dmx/InfoGFX01.jpg" width="100%">
+<img src="http://mordzon.net/xirux/dmx/InfoGFX01.jpg" width="100%">
 </p> 
 <br>
 <p align="center">
-<img src="http://xirux.com/dmx/FOTO02.jpg" width="80%">
+<img src="http://mordzon.net/xirux/dmx/FOTO02.jpg" width="80%">
 </p> 
 
